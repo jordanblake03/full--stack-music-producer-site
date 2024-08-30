@@ -2,10 +2,11 @@
 
 In the project directory, you can run:
 
+### `npm install`
+
+### `npm install json-server --save-dev`
+
 ### `npm start`
 
-### `npm test`
-
-### `npm run build`
 
 
